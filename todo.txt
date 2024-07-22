@@ -1,0 +1,21 @@
+--------------------------------------Done----------------------------------------------
+# Change Bottom navbar to floating action bar in reading chapter => Done.
+# Add Dark Theme => Done. 
+# Migrate to GetX => Done.
+# Add nanomashin all chapters => Done.
+# Add favorite page => Done.
+# Add Button navbar => Done.
+# Add Next Chapter =>Done.
+-----------------------------------On Progress------------------------------------------
+
+# Add LightNovelPub => on Progress.
+
+-----------------------------------To Be Done-------------------------------------------
+# Add Horiziontal and vertical reading =>
+# Add Customize page =>
+# Add Search Page =>
+# Add Progress Bar =>
+# Add Woopread =>
+# Add WuxiaWorld =>
+# Add GalaxyTranslations =>
+
